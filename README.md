@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Furret, a furry and someone who's stupid and has depression
+I'm Furret, a furry and someone who's stupid
 
 
 # 💻 Tech Stack:
